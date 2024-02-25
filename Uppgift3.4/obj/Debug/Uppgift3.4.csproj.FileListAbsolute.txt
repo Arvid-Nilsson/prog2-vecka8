@@ -1,0 +1,10 @@
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\obj\Debug\Uppgift3.4.csproj.AssemblyReference.cache
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\obj\Debug\Uppgift3._4.Form1.resources
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\obj\Debug\Uppgift3._4.Properties.Resources.resources
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\obj\Debug\Uppgift3.4.csproj.GenerateResource.cache
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\obj\Debug\Uppgift3.4.csproj.CoreCompileInputs.cache
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\bin\Debug\Uppgift3.4.exe.config
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\bin\Debug\Uppgift3.4.exe
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\bin\Debug\Uppgift3.4.pdb
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\obj\Debug\Uppgift3.4.exe
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka8\Uppgift3.4\obj\Debug\Uppgift3.4.pdb
